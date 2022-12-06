@@ -1,0 +1,15 @@
+C:\Users\Josselyne\Desktop\EXPO\bin\Debug\net6.0\EXPO.exe
+C:\Users\Josselyne\Desktop\EXPO\bin\Debug\net6.0\EXPO.deps.json
+C:\Users\Josselyne\Desktop\EXPO\bin\Debug\net6.0\EXPO.runtimeconfig.json
+C:\Users\Josselyne\Desktop\EXPO\bin\Debug\net6.0\EXPO.dll
+C:\Users\Josselyne\Desktop\EXPO\bin\Debug\net6.0\EXPO.pdb
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.csproj.AssemblyReference.cache
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.AssemblyInfoInputs.cache
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.AssemblyInfo.cs
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.csproj.CoreCompileInputs.cache
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.dll
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\refint\EXPO.dll
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.pdb
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\EXPO.genruntimeconfig.cache
+C:\Users\Josselyne\Desktop\EXPO\obj\Debug\net6.0\ref\EXPO.dll
